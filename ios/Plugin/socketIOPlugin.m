@@ -1,3 +1,11 @@
+//
+//  socketIOPlugin.m
+//  Plugin
+//
+//  Created by sam on 8/3/21.
+//  Copyright © 2021 Max Lynch. All rights reserved.
+//
+
 #import <Foundation/Foundation.h>
 #import <Capacitor/Capacitor.h>
 
